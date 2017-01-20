@@ -1,0 +1,9 @@
+/* ie.css */
+.header-logo a img {
+	border: 0px;
+}
+
+.home-form-row, .home-form-subtext {
+	display: inline-block;
+	margin: 15px 5px 0px 5px;
+}
